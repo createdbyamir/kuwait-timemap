@@ -1,0 +1,42 @@
+[
+  {
+    "id": "pearl-diving",
+    "title": "Pearl Diving Era",
+    "year": "1800s–1930s",
+    "summary": "Before oil, pearling and trade shaped Kuwait’s early economy and maritime culture.",
+    "placeIds": ["failaka-island"],
+    "image": "/assets/images/timeline/pearl-diving.jpg"
+  },
+  {
+    "id": "oil-discovery",
+    "title": "Discovery of Oil",
+    "year": "1938",
+    "summary": "Oil transformed Kuwait’s economy and urban development through the mid-20th century.",
+    "placeIds": ["kuwait-towers"],
+    "image": "/assets/images/timeline/oil-discovery.jpeg"
+  },
+  {
+    "id": "independence-1961",
+    "title": "Independence",
+    "year": "1961",
+    "summary": "Kuwait gained independence, marking a new era of statehood and modernization.",
+    "placeIds": ["grand-mosque", "kuwait-towers"],
+    "image": "/assets/images/timeline/independence-1961.jpeg"
+  },
+  {
+    "id": "liberation-1991",
+    "title": "Liberation",
+    "year": "1991",
+    "summary": "Following the Gulf War, Kuwait was liberated and began reconstruction and renewal.",
+    "placeIds": ["kuwait-towers"],
+    "image": "/assets/images/timeline/liberation-1991.jpeg"
+  },
+  {
+    "id": "shaheed-park-opening",
+    "title": "Al Shaheed Park Opening",
+    "year": "2015",
+    "summary": "A major urban park and cultural hub opened, adding green space and museums to the city.",
+    "placeIds": ["al-shaheed-park"],
+    "image": "/assets/images/timeline/al-shaheed-park.jpg"
+  }
+]

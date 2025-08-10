@@ -1,10 +1,66 @@
+/** @type {import('tailwindcss').Config} */
 export default {
-  content: [
-    "./index.html",
-    "./src/**/*.{js,ts,jsx,tsx}",
-  ],
+  content: ["./index.html", "./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        sand: {
+          50:  "#FAF6F1",
+          100: "#F3EADF",
+          200: "#E7D9C3",
+          300: "#DAC7A8",
+          400: "#CBB184",
+          500: "#B9995F",
+          600: "#9D7E4B",
+          700: "#7D623A",
+          800: "#5B472A",
+          900: "#3E301C",
+        },
+        gulf: {
+          50:  "#E6F6FB",
+          100: "#C7EAF6",
+          200: "#97D9EE",
+          300: "#66C6E5",
+          400: "#30AFDA",
+          500: "#1196C4",
+          600: "#0E7AA0",
+          700: "#0E6483",
+          800: "#0C4F66",
+          900: "#093A4B",
+        },
+        palm: {
+          50:  "#ECF8F3",
+          100: "#D4F0E3",
+          200: "#A9E1C7",
+          300: "#7ED2AB",
+          400: "#52C38F",
+          500: "#2BAA75",
+          600: "#20855B",
+          700: "#176546",
+          800: "#0F4631",
+          900: "#082C1F",
+        },
+        coral: {
+          50:  "#FFF2EF",
+          100: "#FFDAD3",
+          200: "#FFB9A9",
+          300: "#FF957E",
+          400: "#FF7057",
+          500: "#F6513B",
+          600: "#D4392A",
+          700: "#A62B21",
+          800: "#771F18",
+          900: "#4C140F",
+        },
+      },
+      boxShadow: {
+        header: "0 2px 14px rgba(0,0,0,0.06)",
+        card: "0 6px 24px rgba(0,0,0,0.06)",
+      },
+      maxWidth: {
+        container: "1200px",
+      },
+    },
   },
   plugins: [],
-}
+};

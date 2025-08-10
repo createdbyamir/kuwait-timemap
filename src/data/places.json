@@ -1,0 +1,47 @@
+[
+  {
+    "id": "kuwait-towers",
+    "name": "Kuwait Towers",
+    "coords": [29.3796, 48.0006],
+    "category": "architecture",
+    "summary": "Iconic water towers and symbol of modern Kuwait, offering panoramic views of Kuwait City and the Gulf.",
+    "image": "/assets/images/places/kuwait-towers.jpg",
+    "relatedTimelineIds": ["oil-discovery", "independence-1961", "liberation-1991"]
+  },
+  {
+    "id": "grand-mosque",
+    "name": "Grand Mosque of Kuwait",
+    "coords": [29.3823, 47.9774],
+    "category": "heritage",
+    "summary": "Kuwait’s largest mosque, known for its stunning Islamic architecture and central cultural role.",
+    "image": "/assets/images/places/grand-mosque.jpeg",
+    "relatedTimelineIds": ["independence-1961"]
+  },
+  {
+    "id": "failaka-island",
+    "name": "Failaka Island",
+    "coords": [29.442, 48.3021],
+    "category": "nature",
+    "summary": "Historic island with archaeological sites and pearling heritage, off Kuwait’s coast.",
+    "image": "/assets/images/places/failaka-island.jpg",
+    "relatedTimelineIds": ["pearl-diving"]
+  },
+  {
+    "id": "al-shaheed-park",
+    "name": "Al Shaheed Park",
+    "coords": [29.3725, 47.9842],
+    "category": "nature",
+    "summary": "Urban park and cultural space with museums, art, and green landscapes in the heart of Kuwait City.",
+    "image": "/assets/images/places/al-shaheed-park.jpg",
+    "relatedTimelineIds": ["shaheed-park-opening"]
+  },
+  {
+    "id": "tareq-rajab-museum",
+    "name": "Tareq Rajab Museum",
+    "coords": [29.3404, 47.9801],
+    "category": "museum",
+    "summary": "Private museum featuring Islamic art, calligraphy, jewelry, and regional cultural artifacts.",
+    "image": "/assets/images/places/tareq-rajab-museum.jpeg",
+    "relatedTimelineIds": []
+  }
+]
